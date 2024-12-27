@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{448:function(t,n,e){"use strict";e.r(n);var s={name:"z-code",props:{msg:{type:String,default:null}},data:function(){return{}}},i=e(25),u=Object(i.a)(s,(function(){var t=this.$createElement;return(this._self._c||t)("div",[this._v(this._s(this.msg))])}),[],!1,null,null,null);n.default=u.exports}}]);
